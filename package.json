@@ -1,0 +1,21 @@
+{
+  "devDependencies": {},
+  "name": "template-javascript-debug-vscode",
+  "description": "debug javascript on vscode using nvm and nodemon",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramendra/template-javascript-debug-vscode.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "debug",
+    "vscode"
+  ],
+  "author": "Pramendra Gupta <pramendra@gmail.com>",
+  "license": "ISC"
+}
